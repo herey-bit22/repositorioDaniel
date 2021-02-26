@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
 *.php
+*.py
 
 # Object files
 *.o
